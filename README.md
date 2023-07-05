@@ -8,7 +8,7 @@ Pyinstaller, which is used to create the executable file, does not support the "
 
 ## Libraries used
 <ul>
-  <li></li><a href="https://pypi.org/project/PyAutoGUI/">PyAutoGUI</a></li>
+  <li><a href="https://pypi.org/project/PyAutoGUI/">PyAutoGUI</a></li>
   <li><a href="https://pypi.org/project/pywhatkit/">pywhatkit</a></li>
   <li>tkinter</li>
 </ul>
