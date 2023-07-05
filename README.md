@@ -6,7 +6,7 @@ A simple automation tool for sending bulk messages to someone on WhatsApp
 
 Pyinstaller, which is used to create the executable file, does not support the "typing" module, which is why the "Start with image" functionality has been disabled and removed from the program. Furthermore, the spammer does not support image spam to avoid cyber attacks aimed at, for example, filling up the targets storage. Future releases may implement similar features once security measures have been taken. 
 
-## Libraries used
+## LIBARIES USED
 <ul>
   <li><a href="https://pypi.org/project/PyAutoGUI/">PyAutoGUI</a></li>
   <li><a href="https://pypi.org/project/pywhatkit/">pywhatkit</a></li>
