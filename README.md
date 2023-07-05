@@ -12,6 +12,7 @@ Pyinstaller, which is used to create the executable file, does not support the "
   <li><a href="https://pypi.org/project/pywhatkit/">pywhatkit</a></li>
   <li>tkinter</li>
 </ul>
+
 ## DOWNLOAD
 Please download the latest release, inside should be the <b>whatsapp_spammer.exe</b> application
 
