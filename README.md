@@ -16,6 +16,8 @@ Pyinstaller, which is used to create the executable file, does not support the "
 ## DOWNLOAD
 Please download the latest release, inside should be the <b>whatsapp_spammer.exe</b> application
 
+## PREPARATION
+Please make sure you are logged into your whatsapp account on your preferred browser before running the tool
 ## USAGE
 
 1. Run the <b>whatsapp_spammer.exe</b> application
